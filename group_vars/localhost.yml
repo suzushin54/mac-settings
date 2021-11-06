@@ -8,7 +8,6 @@ homebrew_taps:
   - homebrew/core
   - homebrew/services
   - jesseduffield/lazygit
-  - ktr0731/evens
   - melonamin/formulae
   - sqldef/sqldef
 homebrew_cask_packages:
@@ -40,7 +39,6 @@ homebrew_packages:
   - name: direnv
   - name: docker
   - name: docker-compose
-  - name: evans
   - name: exa
   - name: fontconfig
   - name: freetype
@@ -62,7 +60,6 @@ homebrew_packages:
   - name: gobject-introspection
   - name: graphite2
   - name: graphviz
-  - name: grpcurl
   - name: gts
   - name: guile
   - name: harfbuzz
@@ -136,7 +133,6 @@ homebrew_packages:
   - name: saml2aws
   - name: six
   - name: sqlite
-  - name: tbls
   - name: tcl-tk
   - name: telnet
   - name: tmux
@@ -148,10 +144,8 @@ homebrew_packages:
   - name: xorgproto
   - name: xz
   - name: zstd
-  - name: bloomrpc
-  - name: swiftbar
   - name: vim
-dot_files:
+dotfiles:
   - name: ideavimrc
   - name: kubectl_aliases
   - name: tmux.conf
