@@ -1,0 +1,159 @@
+homebrew_taps:
+  - aws/tap
+  - dart-lang/dart
+  - heroku/brew
+  - homebrew/bundle
+  - homebrew/cask
+  - homebrew/cask-versions
+  - homebrew/core
+  - homebrew/services
+  - jesseduffield/lazygit
+  - ktr0731/evens
+  - melonamin/formulae
+  - sqldef/sqldef
+homebrew_cask_packages:
+  - name: alfred
+  - name: bloomrpc
+  - name: deepl
+  - name: docker
+  - name: google-chrome
+  - name: karabiner-elements
+  - name: notion
+  - name: postman
+  - name: slack
+  - name: swiftbar
+  - name: visual-studio-code
+homebrew_packages:
+  - name: adns
+  - name: ansible
+  - name: anyenv
+  - name: autoconf
+  - name: aws-sam-cli
+  - name: awscli
+  - name: awslogs
+  - name: bat
+  - name: bdw-gc
+  - name: c-ares
+  - name: cairo
+  - name: circleci
+  - name: dart
+  - name: direnv
+  - name: docker
+  - name: docker-compose
+  - name: evans
+  - name: exa
+  - name: fontconfig
+  - name: freetype
+  - name: fribidi
+  - name: fzf
+  - name: gd
+  - name: gdbm
+  - name: gdk-pixbuf
+  - name: gettext
+  - name: ghq
+  - name: git
+  - name: git-crypt
+  - name: git-delta
+  - name: glib
+  - name: gmp
+  - name: gnupg
+  - name: gnutls
+  - name: go
+  - name: gobject-introspection
+  - name: graphite2
+  - name: graphviz
+  - name: grpcurl
+  - name: gts
+  - name: guile
+  - name: harfbuzz
+  - name: heroku
+  - name: heroku-node
+  - name: hub
+  - name: icu4c
+  - name: jasper
+  - name: jemalloc
+  - name: jpeg
+  - name: jq
+  - name: jump
+  - name: k6
+  - name: lazygit
+  - name: ldns
+  - name: libassuan
+  - name: libcbor
+  - name: libev
+  - name: libevent
+  - name: libffi
+  - name: libfido2
+  - name: libgcrypt
+  - name: libgpg-error
+  - name: libidn2
+  - name: libksba
+  - name: libpng
+  - name: libpthread-stubs
+  - name: librsvg
+  - name: libtasn1
+  - name: libtiff
+  - name: libtool
+  - name: libunistring
+  - name: libusb
+  - name: libx11
+  - name: libxau
+  - name: libxcb
+  - name: libxdmcp
+  - name: libxext
+  - name: libxrender
+  - name: libyaml
+  - name: lz4
+  - name: lzo
+  - name: m4
+  - name: mpdecimal
+  - name: mysql
+  - name: mysqldef
+  - name: ncurses
+  - name: netpbm
+  - name: nettle
+  - name: nghttp2
+  - name: node-build
+  - name: nodebrew
+  - name: nodenv
+  - name: npth
+  - name: oniguruma
+  - name: openapi-generator
+  - name: openjdk
+  - name: openssh
+  - name: openssl@1.1
+  - name: p11-kit
+  - name: pango
+  - name: pcre
+  - name: pcre2
+  - name: peco
+  - name: pinentry
+  - name: pinentry-mac
+  - name: pixman
+  - name: pkg-config
+  - name: protobuf
+  - name: readline
+  - name: saml2aws
+  - name: six
+  - name: sqlite
+  - name: tbls
+  - name: tcl-tk
+  - name: telnet
+  - name: tmux
+  - name: tree
+  - name: unbound
+  - name: utf8proc
+  - name: webp
+  - name: wget
+  - name: xorgproto
+  - name: xz
+  - name: zstd
+  - name: bloomrpc
+  - name: swiftbar
+  - name: vim
+dot_files:
+  - name: ideavimrc
+  - name: kubectl_aliases
+  - name: tmux.conf
+  - name: vimrc
+  - name: zshrc
